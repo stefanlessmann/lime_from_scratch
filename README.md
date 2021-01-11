@@ -6,6 +6,6 @@ LIME untersützt auch andere Arten von Daten, insbesondere Text- und Bilddaten. 
 
 Referenzen:
 - Alvarez-Melis, D., & Jaakkola, T. S. (2018). On the Robustness of Interpretability Methods. ICML Workshop on Human Interpretability in Machine Learning (WHI 2018), Stockholm, Sweden. https://arxiv.org/abs/1806.08049
-- Molnar, C. (2019). Interpretable Machine Learning. Victoria, BC, Canada: Leanpub.https://christophm.github.io/interpretable-ml-book/ 
-- Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). "Why Should I Trust You?": Explaining the Predictions of Any Classifier. Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (ACM KDD2016), ACM: New York, NY, USA.https://doi.org/10.1145/2939672.2939778
+- Molnar, C. (2019). Interpretable Machine Learning. Victoria, BC, Canada: Leanpub. https://christophm.github.io/interpretable-ml-book/ 
+- Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). "Why Should I Trust You?": Explaining the Predictions of Any Classifier. Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (ACM KDD2016), ACM: New York, NY, USA. https://doi.org/10.1145/2939672.2939778
 
