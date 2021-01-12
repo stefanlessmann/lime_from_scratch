@@ -10,8 +10,6 @@ Die elementaren Schritte von LIME lassen sich wie folgt zusammenfassen:
 4. Schätzen eines interpretierbaren Modells auf Basis der synthetischen Daten
 
 Die folgende Abbildung illustriert diese Schritte. Das Notebook erzeugt diese Grafik über die Funktion `LIME_Demp()`.
-
-
 ![LIME-Verfahren](Lime_result.jpg)
 
 Referenzen:
