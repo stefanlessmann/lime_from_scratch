@@ -3,6 +3,15 @@ Ribeiro et al. (2016) stellen in Ihrem Papier das sog. Die Abkürzung LIME steht
 
 LIME untersützt auch andere Arten von Daten, insbesondere Text- und Bilddaten. Der Erstautor des Papiers, Marco Tulio Correia Ribeiro, stellt in seinem [GitHub-Repository](https://github.com/marcotcr/lime/tree/master/lime) and leistungsfähige und flexibel einsatzbare Implementierung des LIME-Verfahrens bereit. Dort finden sich auch viele nützliche Beispiele und Erklärungen. Das Notebook LIME_from_scratch.ipynb demonstriert wesentliche Schritte des LIME-Verfahrens am Beispiel tabellarischer Daten. Es enthält ferner eine vereinfachte Implementierung des Verfahrens, welche für Lehrzwecke geeignet ist.
 
+Die elementaren Schritte von LIME lassen sich wie folgt zusammenfassen:
+1. Lernen eines (nichtlinearen) Modells, dessen Prognosen für einzelne Testfälle erklärt werden sollen
+2. Wählen eines Subjekts, dessen Prognose erklärt werden soll 
+3. Erzeugen künstlicher Daten in der Nachbarschaft des Subjekts  
+4. Schätzen eines interpretierbaren Modells auf Basis der synthetischen Daten
+
+Die folgende Abbildung illustriert diese Schritte. Das Notebook erzeugt diese Grafik über die Funktion `LIME_Demp()`.
+
+
 ![LIME-Verfahren](Lime_result.jpg)
 
 Referenzen:
