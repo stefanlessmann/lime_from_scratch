@@ -13,6 +13,9 @@ Die elementaren Schritte von LIME lassen sich wie folgt zusammenfassen:
 Im Anschluss kann die BB-Prognose durch das interpretierbare Modell erklärt werden. Die folgende Abbildung illustriert diese Schritte. Das Notebook erzeugt diese Grafik über die Funktion `LIME_Demo()`.
 ![LIME-Verfahren](Lime_result.jpg)
 
+Wie gewohnt können Sie das Notebook direkt in Colab ausführen.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefanlessmann/lime_from_scratch/blob/main/LIME_from_scratch.ipynb) 
+
 Referenzen:
 - Alvarez-Melis, D., & Jaakkola, T. S. (2018). On the Robustness of Interpretability Methods. ICML Workshop on Human Interpretability in Machine Learning (WHI 2018), Stockholm, Sweden. https://arxiv.org/abs/1806.08049
 - Molnar, C. (2019). Interpretable Machine Learning. Victoria, BC, Canada: Leanpub. https://christophm.github.io/interpretable-ml-book/ 
