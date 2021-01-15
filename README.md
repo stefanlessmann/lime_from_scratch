@@ -10,11 +10,12 @@ Die elementaren Schritte von LIME lassen sich wie folgt zusammenfassen:
 4. Prognostizieren der künstlichen Daten durch das BB-Modell
 5. Schätzen eines interpretierbaren Modells auf Basis der synthetischen Daten mit der BB-Prognose als Zielvariable. 
 
-Im Anschluss kann die BB-Prognose durch das interpretierbare Modell erklärt werden. Die folgende Abbildung illustriert diese Schritte. Das Notebook erzeugt diese Grafik über die Funktion `LIME_Demo()`.
+Im Anschluss kann die BB-Prognose durch das interpretierbare Modell erklärt werden. Die folgende Abbildung illustriert diese Schritte. Das Notebook erzeugt diese Grafik über die Funktion `LIME_Demo()`. Wie gewohnt können Sie das Notebook direkt in Colab ausführen.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefanlessmann/lime_from_scratch/blob/main/LIME_from_scratch.ipynb) 
+
 ![LIME-Verfahren](Lime_result.jpg)
 
-Wie gewohnt können Sie das Notebook direkt in Colab ausführen.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefanlessmann/lime_from_scratch/blob/main/LIME_from_scratch.ipynb) 
+
 
 Referenzen:
 - Alvarez-Melis, D., & Jaakkola, T. S. (2018). On the Robustness of Interpretability Methods. ICML Workshop on Human Interpretability in Machine Learning (WHI 2018), Stockholm, Sweden. https://arxiv.org/abs/1806.08049
